@@ -126,7 +126,21 @@
 
 ### Badges
 
+Views:
+
+<img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@maxwell-feng-maxwell-feng"/>
+
+Code size, repo size and release — using one of my own repos as the example (swap `dsh-tinyfish-search` for any repo name):
+
+<img src="https://img.shields.io/github/languages/code-size/maxwell-feng/dsh-tinyfish-search?label=CodeSize"/>
+<img src="https://img.shields.io/github/repo-size/maxwell-feng/dsh-tinyfish-search?label=RepoSize"/>
+<img src="https://img.shields.io/github/v/release/maxwell-feng/dsh-tinyfish-search?label=Version"/>
+
+<details><summary>Copy-paste snippets</summary>
+
 - Views `<img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@maxwell-feng-maxwell-feng"/>`
 - Code size `<img src="https://img.shields.io/github/languages/code-size/maxwell-feng/<repo>?label=CodeSize"/>`
 - Repo size `<img src="https://img.shields.io/github/repo-size/maxwell-feng/<repo>?label=RepoSize"/>`
 - Release `<img src="https://img.shields.io/github/v/release/maxwell-feng/<repo>?label=Version"/>`
+
+</details>
