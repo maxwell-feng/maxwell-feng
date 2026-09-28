@@ -126,7 +126,21 @@
 
 ### 徽章
 
+访问量：
+
+<img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@maxwell-feng-maxwell-feng"/>
+
+代码量、仓库大小、发行版本 —— 拿我自己的仓库当例子（把 `dsh-tinyfish-search` 换成任意仓库名即可）：
+
+<img src="https://img.shields.io/github/languages/code-size/maxwell-feng/dsh-tinyfish-search?label=CodeSize"/>
+<img src="https://img.shields.io/github/repo-size/maxwell-feng/dsh-tinyfish-search?label=RepoSize"/>
+<img src="https://img.shields.io/github/v/release/maxwell-feng/dsh-tinyfish-search?label=Version"/>
+
+<details><summary>复制用的代码片段</summary>
+
 - 访问量 `<img src="https://api.visitorbadge.io/api/visitors?style=flat&countColor=0066AA&label=Views&path=GitHub@maxwell-feng-maxwell-feng"/>`
 - 仓库代码量 `<img src="https://img.shields.io/github/languages/code-size/maxwell-feng/<repo>?label=CodeSize"/>`
 - 仓库大小 `<img src="https://img.shields.io/github/repo-size/maxwell-feng/<repo>?label=RepoSize"/>`
 - 发行版本 `<img src="https://img.shields.io/github/v/release/maxwell-feng/<repo>?label=Version"/>`
+
+</details>
