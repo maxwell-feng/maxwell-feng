@@ -1,5 +1,5 @@
 # 嗨！我是 <strong>Maxwell Feng</strong> !
-<img src="assets/abstract-banner.png" alt="抽象搞笑" width="100%">
+<p align="center"><img src="assets/moyu-meme.png" alt="摸鱼" width="560"></p>
 
 <div align="center">
 
