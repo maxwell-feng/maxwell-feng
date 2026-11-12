@@ -1,5 +1,5 @@
 # Hi! I'm <strong>Maxwell Feng</strong> !
- <img src="https://github.com/maxwell-feng.png" width="32" style="border-radius:10%;"/>
+<img src="assets/abstract-banner.png" alt="抽象搞笑" width="100%">
 
 <div align="center">
 
